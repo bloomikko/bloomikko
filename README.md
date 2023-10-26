@@ -2,8 +2,10 @@
 
 ## 🤖 Test engineer, but why?
 I've always been very attentive to even smallest details which somehow... resulted me to end up as software test professional.
+
 Tale as old as time, didn't know what to do when I grow up so here we are. But I like what I do!
-I have a strong passion to constantly learn new things about testing and becoming more proficient - testing having a repuration of being the underdog of software industry somehow resonates much with me.
+
+I have a strong passion to constantly learn new things about testing and becoming more proficient - testing having a reputation of being the underdog in software industry somehow resonates much with me.
 
 ## ✨ About me
 - Pronouns: he/him
