@@ -13,5 +13,5 @@ I have a strong passion to constantly learn new things about testing and becomin
 - My biggest achievement: Crash Bandicoot 4: It's About Time platinum trophy (I really am prouder of this than anything else!)
 - Please see my resume for more information about my professional background
 
-## Tags
+## 💻 Tags
 #robotframework #playwright #cypress #selenium #QA #quality #DevOps #CI/CD #DevSecOps #ISTQB #security #performancetesting #acceptancetesting #testautomation #manualtesting
