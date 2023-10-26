@@ -16,4 +16,4 @@ I have a strong passion to constantly learn new things about testing and becomin
 - Please see my [resume](https://github.com/bloomikko/bloomikko-Resume) for more information about my professional background
 
 ## 💻 Tags
-#robotframework #playwright #cypress #selenium #QA #quality #DevOps #CI/CD #DevSecOps #ISTQB #security #performancetesting #acceptancetesting #testautomation #manualtesting
+#robotframework #playwright #cypress #selenium #python #typescript #QA #quality #DevOps #CI/CD #DevSecOps #ISTQB #security #performancetesting #acceptancetesting #testautomation #manualtesting
