@@ -11,7 +11,7 @@ I have a strong passion to constantly learn new things about testing and becomin
 - I used to be ashamed about being a nerd, but now I have zero shame for that: you'll most likely hear me rambling about music, video games and all kinds of other nerdy tech stuff
 - Fun fact: it's not very difficult to see my favorite color as I tend to buy everything in yellow
 - My biggest achievement: Crash Bandicoot 4: It's About Time platinum trophy (I really am prouder of this than anything else!)
-- Please see my resume for more information about my professional background
+- Please see my [resume](https://github.com/bloomikko/bloomikko-Resume) for more information about my professional background
 
 ## 💻 Tags
 #robotframework #playwright #cypress #selenium #QA #quality #DevOps #CI/CD #DevSecOps #ISTQB #security #performancetesting #acceptancetesting #testautomation #manualtesting
